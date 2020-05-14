@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grocery List</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+    <style>
+        h1{
+            padding-top: 10px;
+            color: floralwhite;
+            text-decoration: underline;
+            text-align: center; 
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-size: 50px;
+        }
+
+        body{
+            background: linear-gradient(to top, darkgrey, black);
+
+        }
+
+        table{
+            color: white;
+            background-color: black;
+            
+        }
+
+        h1:hover{
+            text-transform: lowercase;
+            color: black;
+            transform: rotateY(180deg);
+        }
+
+        body:hover{
+            background: linear-gradient(to top, black, darkgrey);
+        }
+
+        .table:hover{
+            color: black;
+            background-color: darkgrey;
+            border-color: black;
+            border-width: 5px;
+        }
+
+    </style>
+</head>
+<body>
+
+
+    
+
+
+    <div class="container">
+     <div style="text-align: left;" class="table-responsive">
+          <h1>GROCERY SHOPPING LIST</h1>
+          <br>
+          <div  id="grocery">
+              
+          </div>
+     </div> 
+    </div>
+    
+    <script src="ajax.js"></script>
+    
+</body>
+</html>

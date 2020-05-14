@@ -1,0 +1,84 @@
+{
+    "grocery" :[
+        {
+            "SlNo" : "01",
+            "Name" : "Milk",
+            "Quantity" : "2",
+            "Unit" : "Ltr",
+            "Department" : "Dairy dpt",
+            "Notes" : "check expiry date"
+        },
+        {
+            "SlNo" : "02",
+            "Name" : "Eggs",
+            "Quantity" : "10",
+            "Unit" : "numbers",
+            "Department" : "Dairy dpt",
+            "Notes" : "only buy fresh eggs and brown colored"
+        },
+        {
+            "SlNo" : "03",
+            "Name" : "Bread",
+            "Quantity" : "2",
+            "Unit" : "packets",
+            "Department" : "Bakery dpt",
+            "Notes" : "Buy the new and of Modern brand"
+        },
+        {
+            "SlNo" : "04",
+            "Name" : "Carrots, Beans, Potatoes, Onions, Chillis, Cabbage, Cauliflower",
+            "Quantity" : "1",
+            "Unit" : "kg each",
+            "Department" : "Produce dpt",
+            "Notes" : "Buy fresh only"
+        },
+        {
+            "SlNo" : "05",
+            "Name" : "Rice flour",
+            "Quantity" : "1",
+            "Unit" : "kg",
+            "Department" : "Packaged items",
+            "Notes" : "Check expiry date and make sure it is not opened or no holes"
+        },
+        {
+            "SlNo" : "06",
+            "Name" : "Soap",
+            "Quantity" : "5",
+            "Unit" : "number",
+            "Department" : "Beauty dpt",
+            "Notes" : "Buy Lexus brand"
+        },
+        {
+            "SlNo" : "07",
+            "Name" : "Shampoo",
+            "Quantity" : "400",
+            "Unit" : "ml",
+            "Department" : "Beauty dpt",
+            "Notes" : "Head and Shoulders"
+        },
+        {
+            "SlNo" : "08",
+            "Name" : "Meat, fish",
+            "Quantity" : "1",
+            "Unit" : "kg each",
+            "Department" : "Butcher dpt",
+            "Notes" : "Buy only fresh item"
+        },
+        {
+            "SlNo" : "09",
+            "Name" : "Meat masala, Chicken masala, Egg masala, Coriander powder, chilli powder, Garam masala, Turmeric powder, Pepper",
+            "Quantity" : "2",
+            "Unit" : "packets",
+            "Department" : "Masala dpt",
+            "Notes" : "check expiry date"
+        },
+        {
+            "SlNo" : "10",
+            "Name" : "Pain balm",
+            "Quantity" : "100",
+            "Unit" : "gram",
+            "Department" : "Pharmacy dpt",
+            "Notes" : "make sure it is Amritanjan"
+        }
+    ]
+}
